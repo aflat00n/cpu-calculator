@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cpu-calculator/static/css/main.073c9b0a.css",
+    "main.js": "/cpu-calculator/static/js/main.b6b41f29.js",
+    "static/js/787.6bc9ea71.chunk.js": "/cpu-calculator/static/js/787.6bc9ea71.chunk.js",
+    "index.html": "/cpu-calculator/index.html",
+    "main.073c9b0a.css.map": "/cpu-calculator/static/css/main.073c9b0a.css.map",
+    "main.b6b41f29.js.map": "/cpu-calculator/static/js/main.b6b41f29.js.map",
+    "787.6bc9ea71.chunk.js.map": "/cpu-calculator/static/js/787.6bc9ea71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b6b41f29.js"
+  ]
+}
